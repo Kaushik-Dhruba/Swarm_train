@@ -8,9 +8,11 @@ This project implements a swarm simulation environment where multiple agents lea
 
 Here is a visualization of the swarm behavior during training:
 
-![Swarm Training Demo](docs/swarm_train.gif)
+<p align="center">
+  <img src="/docs/swarm_train.gif" alt="Swarm Training Demo" />
+</p>
 
-*The above GIF shows agents collaborating to push the box through the goal area.*
+*The above GIF shows agents collaborating to push the box to the goal area.*
 
 ## 🚀 Project Overview
 

@@ -1,6 +1,6 @@
 # 🐝 Multi-Agent Swarm Training
 
-This project implements a swarm simulation environment where multiple agents learn to collaborate using decentralized actor and centralized critic reinforcement learning algorithms. The goal is to **compare multiple training methods** and evaluate which yields better swarm coordination and task performance.
+This project implements a swarm simulation environment where multiple agents learn to collaborate using decentralized actor and centralized critic reinforcement learning algorithms. The goal is to compare multiple training methods and evaluate which yields better swarm coordination and task performance.
 
 ---
 

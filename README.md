@@ -12,14 +12,14 @@ Here is a visualization of the swarm behavior during training:
   <img src="/docs/swarm_train.gif" alt="Swarm Training Demo" />
 </p>
 
-*The above GIF shows agents collaborating to push the box to the goal area.*
+*The above GIF shows agents collaborating to push the box to the goal area where more than one agent is required in order to move the box.*
 
 ## 🚀 Project Overview
 
-- **Swarm Environment:** Simulated 2D environment where agents cooperate to complete tasks (e.g., pushing objects).
+- **Swarm Environment:** Simulated 2D environment where agents cooperate to complete tasks (e.g., pushing objects towards goal).
 - **Training Paradigm:** Decentralized actor policies with a centralized critic for improved learning stability.
-- **Algorithm Comparison:** Test and compare different RL algorithms and training setups.
-- **Visualization:** Periodic GIF generation visualizing agent behaviors and swarm dynamics.
+- **Algorithm Comparison:** Test and compare different RL algorithms and training setups like MADDGP, DQN etc.
+- **Visualization:** Replay mode to visualize agent behaviors and swarm dynamics.
 
 ---
 
